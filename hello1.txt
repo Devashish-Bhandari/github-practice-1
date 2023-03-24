@@ -1,1 +1,7 @@
-Hello, how are you?
+1. Git init
+2. git status
+3. git add .
+4. git log
+5. git remote add origin
+6. git remote remove origin
+7. git push origin master
