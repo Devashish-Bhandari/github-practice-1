@@ -9,3 +9,14 @@
 9. git pull origin master --allow-unrelated-histories
 10. git log 
 11. git remote -v
+
+12. git stash
+13. git stash pop
+14. git stash clear
+
+15. git show
+16. git diff
+17. git log 
+18. git log -5
+
+19. git restore --staged <fileName>
