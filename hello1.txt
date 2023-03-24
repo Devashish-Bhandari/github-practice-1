@@ -20,3 +20,5 @@
 18. git log -5
 
 19. git restore --staged <fileName>
+20. git reset --hard <commitNo>
+21. git reset --soft <commitNo>
