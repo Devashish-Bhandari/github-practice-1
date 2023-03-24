@@ -5,3 +5,7 @@
 5. git remote add origin
 6. git remote remove origin
 7. git push origin master
+8. git pull origin master
+9. git pull origin master --allow-unrelated-histories
+10. git log 
+11. git remote -v
