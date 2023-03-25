@@ -23,4 +23,16 @@
 20. git reset --hard <commitNo>
 21. git reset --soft <commitNo>
 
-36. git rebase -i <logNo>
+22. git checkout -b <branchName>
+23. git checkout <branchName>
+24. git branch -d <branchName>
+
+25. git branch -m <oldName> <newName>
+26. git push <remote> delete <oldName>
+25. git branch --unset-upstream <oldName>
+
+26. git rebase -i <logNo>
+
+
+
+
