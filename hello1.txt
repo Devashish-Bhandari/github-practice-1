@@ -30,9 +30,3 @@
 25. git branch -m <oldName> <newName>
 26. git push <remote> delete <oldName>
 25. git branch --unset-upstream <oldName>
-
-26. git rebase -i <logNo>
-
-
-
-
