@@ -27,4 +27,8 @@
 23. git checkout <branchName>
 24. git branch -d <branchName>
 
+25. git branch -m <oldName> <newName>
+26. git push <remote> delete <oldName>
+25. git branch --unset-upstream otherBranch
+
 
